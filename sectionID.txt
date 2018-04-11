@@ -1,0 +1,17 @@
+In this template here is 15 section/part . Here i gave the part number with identity
+
+part-00 = Cover image/banner/slider
+part-01 = Menu
+part-02 = About
+part-03 = About Boosting your site
+part-04 = Who are we 
+part-05 = Wensite features
+part-06 = Portfolio
+part-07 = Services
+part-08 = Pakage Pricing
+part-09 = Team members
+part-10 = are you impressed
+part-11 = Blog Posts
+part-12 = Contact section
+part-13 = Location on Map
+part-14 = footer
